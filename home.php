@@ -7,6 +7,7 @@
 </head>
 </div>
 <body>
-
+	<div id = "chris div">
+		<h1>AC Painters Ltd <img id = 'mainlogo' src = "logo.jpeg" width ="40px" alt = "logo"></h1>
 </body>
 </html>
