@@ -7,7 +7,8 @@
 </head>
 </div>
 <body>
-	<div id = "chris div">
-		<h1 id = "banner">AC Painters Ltd <img id = "mainlogo" src = "logo.jpeg" width ="40px" alt = "logo"></h1>
+	<header class="main-header" role="banner">
+		<img src = "logo.jpg" width ="300px" alt = "logo">
+	</header>
 </body>
 </html>
