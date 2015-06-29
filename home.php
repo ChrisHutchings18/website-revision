@@ -6,6 +6,17 @@
 	<link rel='stylesheet' type ='text/css' href='style.css'/><!--links to my style sheet-->
 </head>
 </div>
+<div id="Alex Div">
+	<nav>
+		<ul>
+			<li>Services</li>
+			<li>Portfolio</li>
+			<li>Forum</li>
+			<li>Reviews</li>
+			<li>Contact Us</li>
+		</ul>
+	</nav>
+</div>
 <body>
 
 </body>
