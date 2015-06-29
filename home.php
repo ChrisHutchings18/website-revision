@@ -5,6 +5,9 @@
 	<meta charset = "utf-8" /><!--sets the character encoding for unicode-->
 	<link rel='stylesheet' type ='text/css' href='style.css'/><!--links to my style sheet-->
 </head>
+	<header class="main-header" role="banner">
+		<img src = "logo.jpg" width ="300px" alt = "logo">
+	</header>
 </div>
 <div id="Alex Div">
 	<nav>
@@ -20,8 +23,6 @@
 	</nav>
 </div>
 <body>
-	<header class="main-header" role="banner">
-		<img src = "logo.jpg" width ="300px" alt = "logo">
-	</header>
+	
 </body>
 </html>
