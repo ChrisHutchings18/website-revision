@@ -20,6 +20,8 @@
 	</nav>
 </div>
 <body>
-
+	<header class="main-header" role="banner">
+		<img src = "logo.jpg" width ="300px" alt = "logo">
+	</header>
 </body>
 </html>
