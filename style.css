@@ -1,11 +1,4 @@
-.main-header {text-align: right;}
-
-#service_button{box-shadow: 0 3px 0 0 #007299;cursor:pointer;width:150px;height:50px;font-weight: bold;}
-#portfolio_button{box-shadow: 0 3px 0 0 #007299;cursor:pointer;width:150px;height:50px;font-weight: bold;}
-#forum_button{box-shadow: 0 3px 0 0 #007299;cursor:pointer;width:150px;height:50px;font-weight: bold;}
-#reviews_button{box-shadow: 0 3px 0 0 #007299;cursor:pointer;width:150px;height:50px;font-weight: bold;}
-#contact_button{box-shadow: 0 3px 0 0 #007299;cursor:pointer;width:150px;height:50px;font-weight: bold;}
-
+.main-header {text-align: left;}
 
 .dropdown { position: relative; display: inline-block;}
 
