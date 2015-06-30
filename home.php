@@ -9,16 +9,34 @@
 		<img src = "logo.jpg" width ="300px" alt = "logo">
 	</header>
 </div>
-<div id="Alex_Div">
+<div class ="dropdown">
 	<nav>
-		<ul>
-			<form id = "menu form">
-			<input id ="service_button" type = "submit" name = "Services" value = "Services"><a href = "services.php"></input>
-			<input id ="portfolio_button" type = "submit" name = "Portfolio" value = "Portfolio"><a href = "services.php"></input>
-			<input id ="forum_button" type = "submit" name = "Forum" value = "Forum"><a href = "services.php"></input>
-			<input id ="reviews_button" type = "submit" name = "Reviews" value = "Reviews"><a href = "services.php"></input>
-			<input id ="contact_button" type = "submit" name = "Contact Us" value = "Contact Us"><a href = "services.php"></input>
-		</form>
+		<button><a id = "home" href = "home.php">Home</a></button>
+		<ul class = "dropdown-menu">
+			<li><a href = "home.php">Home</a></li>
+		</ul>
+		<button><a id = "home" href = "portfolio.php">Portfolio</a></button>
+		<ul class = "dropdown-menu">
+			<li><a href = "portfolio.php">Portfolio</a></li>
+			<li><a href = "portfolio.php">Previous Jobs</a></li>
+			<li><a href = "portfolio.php">Experience</a></li>
+		</ul>
+		<button><a id = "home" href = "services.php">Services</a></button>
+		<ul class = "dropdown-menu">
+			<li><a href = "services.php">Interior</a></li>
+			<li><a href = "services.php">Exterior</a></li>
+		</ul>
+		<button><a id = "home" href = "reviews.php">Reviews</a></button>
+		<ul class = "dropdown-menu">
+			<li><a href = "reviews.php">Reviews</a></li>
+		</ul>
+		<button><a id = "home" href = "contact.php">Contact Us</a></button>
+		<ul class = "dropdown-menu">
+			<li><a href = "contact.php">Contact Us</a></li>
+		</ul>
+		<button><a id = "home" href = "forum.php">Forum</a></button>
+		<ul class = "dropdown-menu">
+			<li><a href = "forum.php">Forum</a></li>
 		</ul>
 	</nav>
 </div>
@@ -26,3 +44,9 @@
 	
 </body>
 </html>
+
+
+			
+			
+			
+			
